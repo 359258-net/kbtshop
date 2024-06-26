@@ -1,0 +1,9 @@
+.shopee{
+    color: white;
+    font-weight: bold;
+    background-image: linear-gradient(to right, #F79F33 , #FD5621) !important;
+}
+.shopeetext{
+    color: #FD5621;
+    text-transform: uppercase;
+}
